@@ -1,2 +1,1 @@
-# FoodBEE – Food Delivery System
-Developed an online food delivery platform aimed at streamlining the ordering process for customers and restaurant management. The system features real-time order tracking, user authentication, and secure payment integration. Implemented using [Technology Stack, e.g., Python, Django, MySQL], focusing on scalable architecture, user-friendly interfaces, and efficient backend management. Contributed to both frontend development and database design, ensuring smooth user interaction and optimized performance.
+Online Food Ordering System with a responsive design and multiple functions
